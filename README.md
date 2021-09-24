@@ -1,5 +1,5 @@
 # Tutorial Selenium
-Este repositório é referente ao meu [vídeo no youtube](https://www.google.com) onde eu explico como utilizar alguns comandos básicos do selenium. <br>
+Este repositório é referente ao meu [vídeo no youtube](https://youtu.be/wahaeaItkHM) onde eu explico como utilizar alguns comandos básicos do selenium. <br>
 #### Importações necessárias:
 - Selenium<br>
 - Time<br>
