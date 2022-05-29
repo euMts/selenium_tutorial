@@ -1,4 +1,5 @@
 # Tutorial Selenium
+[![license mit](https://img.shields.io/badge/license-MIT-green)](LICENSE.md)<br>
 Este repositório é referente ao meu [vídeo no youtube](https://youtu.be/wahaeaItkHM) onde eu explico como utilizar alguns comandos básicos do selenium. <br>
 #### Importações necessárias:
 - Selenium<br>
